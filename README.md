@@ -26,6 +26,8 @@ Future Enhancements:
     Personalized Recommendations: Offer personalized nutritional recommendations tailored to individual dietary goals and needs.
 
 This project demonstrates the potential of AI and computer vision to provide valuable information and support healthy lifestyle choices.
+
+Checkout the demo :
  
 
 
