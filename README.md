@@ -1,6 +1,6 @@
 # Zomato food nutrition tracker
 
-[readme.cmd -- work in progress]
+#### The idea is to let people choose a healthier food option while ordering food online just by uploding a picture from food delivery sites and get deitary information of each and every ingredient with just one click using the power of LLM.
 
 Project Description:
 
