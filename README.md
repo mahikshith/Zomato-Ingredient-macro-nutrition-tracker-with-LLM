@@ -27,3 +27,7 @@ Future Enhancements:
 
 This project demonstrates the potential of AI and computer vision to provide valuable information and support healthy lifestyle choices.
  
+
+
+https://github.com/user-attachments/assets/734cd0f1-7ca4-442b-853c-85fc46534d64
+
