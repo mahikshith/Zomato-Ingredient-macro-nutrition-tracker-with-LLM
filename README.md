@@ -1,4 +1,4 @@
-# Zomato food safety advisor
+# Zomato food nutrition tracker
 
 [readme.cmd -- work in progress]
 
